@@ -5,6 +5,7 @@ Para decir hechizos antes tienen que contar hasta un número pero si el número 
 Hacé un script en python que reciba el número hasta el que tienen que llegar e imprima qué palabras mágicas tienen que decir antes de su hechizo.
 Por ejemplo, esta sería una corrida hasta el número 20:
 
+```
 $ python3 magic.py 20
 1
 2
@@ -26,3 +27,4 @@ abracadabraalakazam
 abracadabra
 19
 alakazam
+```
