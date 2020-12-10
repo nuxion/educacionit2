@@ -28,3 +28,21 @@ abracadabra
 19
 alakazam
 ```
+
+
+# Raiz cuadratica
+
+1) Implementar ahora el siguiente algoritmo teniendo en cuenta que el discriminante
+─el interior de la raíz─ puede ser un número negativo o cero. En ese caso el programa
+debe imprimir que no hay solución posible (para simplificar, aunque Python permite
+trabajar con números imaginarios) o bien mostrar la única solución posible (solo hay un
+resultado cuando el discriminante es cero), respectivamente
+
+
+# Oredered list
+
+Dada una lista de numeros, ordernarlos de menor a mayor, ej:
+
+[4, 1, 3, 6, 2]
+Resultado:
+[1, 2, 3, 4, 6]
